@@ -117,6 +117,8 @@ line=$(awk 'NR=='$i dvdinfo)
 	fi
 done
 
+eject
+
 
 #while read line; do
 

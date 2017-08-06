@@ -1,6 +1,11 @@
 #!/bin/bash
-
+# 
+# Copyright (c) 2017 Marc Young
+#
+# encode for playback on Roku or Chromcast
+#
 #This script takes the titles in a DVD and rips them as individual files
+#
 
 IAM=$(whoami)
 INFO_SRC="/media/$IAM"
